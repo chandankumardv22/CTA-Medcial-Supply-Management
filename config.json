@@ -1,0 +1,14 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",
+    "proud_uri": "mysql://root:@localhost/medical",
+    "in_url": "https://www.instagram.com/chandankumardv22?igsh=MWxteW5nNmtsbnZncQ==",
+    "gh_url": "https://github.com/chandankumardv22/CTA-Medcial-Supply-Management",
+    "blog_name": "WELCOME",
+    "headname": "MEDICAL SUPPLY MANAGEMENT",
+    "user": "chandu",
+    "password": "chandu2005",
+    "login_image": "aple.jpg"
+  }
+}
